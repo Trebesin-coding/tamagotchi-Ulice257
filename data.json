@@ -1,0 +1,17 @@
+{
+    "název": "Opatov",
+    "hlad": 50,
+    "žízeň": 20,
+    "kriminalita na 100 obyvatel": 15,
+    "počet obyvatel": 10000,
+    "infrastruktura": 20,
+    "GDP na obyvatele v korunách": 30000,
+    "vyhlášené stanné právo": false,
+    "průměrný věk obyvatel": 40,
+    "Památka UNESCO": false,
+    "Hrál tam Ronaldo": false,
+    "měsíc": 0,
+    "energie": 30,
+    "hygiena": 50,
+    "venku": 0
+}
